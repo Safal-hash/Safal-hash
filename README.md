@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I am Safal, an aspiring design engineering based in Toronto. I like building cool stuffs with smooth animations while keeping things simple.
+I am Safal, an aspiring design engineering based in Toronto. I like building cool stuffs with smooth animations while keeping things simple. <br>
 
-**These days I’m focused on:**
-*React, TypeScript, Tailwind.
-*Learning good design principles.
-*Mini, thoughtful projects with polish
+**These days I’m focused on:**<br>
+*React, TypeScript, Tailwind. <br>
+*Learning good design principles.<br>
+*Mini, thoughtful projects with polish.<br>
 ___
-___
-**Fun facts about me:**
-*I am really into coffee.
-*I love pixel perfect designs.
+
+**Fun facts about me:**<br>
+*I am really into coffee.<br>
+*I love pixel perfect designs.<br>
 
