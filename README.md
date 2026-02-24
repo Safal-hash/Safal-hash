@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Safal-hash/Safal-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Safal, an aspiring design engineering based in Toronto. I like building cool stuffs with smooth animations while keeping things simple.
 
-Here are some ideas to get you started:
+**These days I’m focused on:**
+*React, TypeScript, Tailwind.
+*Learning good design principles.
+*Mini, thoughtful projects with polish
+___
+___
+**Fun facts about me:**
+*I am really into coffee.
+*I love pixel perfect designs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
